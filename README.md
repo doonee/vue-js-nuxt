@@ -1,4 +1,4 @@
-# shopping-wrap
+# vue-js-nuxt-study
 
 > Wrap Your Shopping
 

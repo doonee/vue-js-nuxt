@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        shopping-wrap
+        vue-js-nuxt-study
       </h1>
       <h2 class="subtitle">
         Wrap Your Shopping

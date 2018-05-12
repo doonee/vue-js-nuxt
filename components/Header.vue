@@ -9,10 +9,10 @@
           <nuxt-link to="/recipes">Recipe</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/about">About</nuxt-link>
+          <nuxt-link to="/_samples/gridExample">gridExample</nuxt-link>
         </li>
         <li>
-          <a target="_blnak" href="http://doonee.net">doonee</a>
+          <a target="_blnak" href="http://doonee.net">about doonee</a>
         </li>
       </ul>
     </nav>
