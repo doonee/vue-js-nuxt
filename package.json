@@ -15,6 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
     "jsgrid": "^1.5.3",
+    "lodash": "^4.17.14",
     "nuxt": "^1.4.0",
     "quasar-framework": "^0.15.10",
     "vue-js-grid": "^1.0.1"
