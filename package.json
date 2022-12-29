@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.0.0",
     "jsgrid": "^1.5.3",
     "lodash": "^4.17.14",
-    "nuxt": "^1.4.0",
+    "nuxt": "^3.0.0",
     "quasar-framework": "^0.15.10",
     "vue-js-grid": "^1.0.1"
   },
@@ -24,7 +24,7 @@
     "cross-env": "^5.0.1",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
-    "eslint-loader": "^1.7.1",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0"
   }
 }
